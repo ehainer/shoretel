@@ -1,4 +1,3 @@
-require 'colorize'
 require 'nokogiri'
 require 'shoretel/version'
 require 'shoretel/config'
